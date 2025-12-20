@@ -19,17 +19,17 @@
 
 ## 📋 Table of Contents
 
-- [🎯 Project Overview](#-project-overview)
-- [🏗️ Architecture](#️-architecture)
-- [📊 Data Flow](#-data-flow)
-- [🔄 ETL Pipeline](#-etl-pipeline)
-- [📁 Project Structure](#-project-structure)
-- [🗃️ Data Model](#️-data-model)
-- [🚀 Getting Started](#-getting-started)
-- [📖 Documentation](#-documentation)
-- [🧪 Quality Assurance](#-quality-assurance)
-- [🤝 Contributing](#-contributing)
-- [📜 License](#-license)
+- [Project Overview](#-project-overview)
+- [Architecture](#️-architecture)
+- [Data Flow](#-data-flow)
+- [ETL Pipeline](#-etl-pipeline)
+- [Project Structure](#-project-structure)
+- [Data Model](#️-data-model)
+- [Getting Started](#-getting-started)
+- [Documentation](#-documentation)
+- [Quality Assurance](#-quality-assurance)
+- [Contributing](#-contributing)
+- [License](#-license)
 
 ---
 
